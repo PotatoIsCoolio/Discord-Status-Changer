@@ -2,6 +2,8 @@
 
 Automatically updates your Discord status while you are AFK.  
 Must install if you wannabe a cool kid ofc!
+This is the most simple script yet people
+Are so surprised over it.
 
 ## 🔧 Features
 - Set custom status messages
